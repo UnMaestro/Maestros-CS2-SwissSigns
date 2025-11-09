@@ -1,46 +1,32 @@
-# Italian Signs WE-Module for Cities: Skylines II  
-## EARLY ACCESS
+# Swiss Signs WE-Module for Cities: Skylines II  
+## SERIE B PACk
 
-Ciao and Hello!  
-This is a **Write Everywhere module** that brings a collection of **Italian road and traffic signs** into your game.  
-After the creation of the German Signs pack, I’ve was already working on the Italian Sign's. But because of the sudden release of the Dutch Creator Pack I've made the decision to focus on the dutch sign's first. But now I can proudly bring Italy’s beautiful sign system to life!
-
-Currently, this is still an **Early Access version**, focusing mainly on **Traffic Signs** and **Autostrada/Expressway Signs** (including start/end markers, tunnels, and bridges). Like the Dutch Sign's.
-There are already **over 30 layouts** and around **200 images** of authentic signs.  
-
-Future updates will add **more arrows**, **more highway layouts**, and **blue, white, yellow, and brown background signs**, covering every road type in Italy.  
+Hallo, Ciao, Bonjour and Hello!  
+This is a **Write Everywhere module** that brings a collection of **Swiss road and traffic signs** into your game.  
 
 ---
 
 ##  Features
--  **Italian traffic and road signs** with realistic layouts and colors  
-- Uses the **Traffic Type Spain** font (must be installed separately)  
-- Includes **over 30 templates/layouts** for Write Everywhere  
-- Around **200 sign images** available  
+-  **Swiss traffic and road signs** with realistic layouts and colors  
+- Uses the **Frutiger** font (must be installed separately)  
+- Includes **over 100 templates/layouts** for Write Everywhere  
+- Around **232 sign images** available  
 - Toll Signs! NEW in Version 0.4.0 
 
 ###  Road Sign Types (currently available)
 - **Traffic Signs** – Warning, prohibition, mandatory, and more  
-- **Autostrada / Expressway Signs** – Green and Blue signs for start, end, tunnel, and bridge markings  
+- **Highway Signs** – Green signs for start, end, Junctions, over Lanes, next to lanes
+- **Main Road Signs** – Blue signs for CityEntry, Direction Arrows, Junctions, over Lanes, next to lanes
 - **Miscellaneous Signs and Symbols** – Icons and extra templates for flexible use  
-
-#### Planned for future updates:
-- **Blue and Green Road Signs**  
-- **White, Yellow, and Brown Directional and Misc Signs**  
-- **Additional Arrows and Layouts**  
-- **More templates and customization options**
-
+- 
 ---
 
 ###  Traffic Signs
-- Includes standard Italian road signs used nationwide  
 - Many signs share common prefabs for better organization and less clutter  
 - Configurable variables for:
   - Distances  
   - Height/width restrictions  
   - Arrows and directions  
-
-- Combined sign templates will be added in future updates for even more flexibility  
 
 ---
 
@@ -52,7 +38,7 @@ Future updates will add **more arrows**, **more highway layouts**, and **blue, w
 4. Click the structure you want to edit.  
 5. Click **Import layout from XML at root...**  
 6. Choose the puzzle-piece icon (*Templates from mods*).  
-7. Search for the **Italian Signs Mod**.  
+7. Search for the **Swiss Signs** Mod.  
 8. Select a layout and customize it to your liking.  
 
 ### Customize and Save Signs
@@ -70,13 +56,13 @@ Future updates will add **more arrows**, **more highway layouts**, and **blue, w
 
 ###  Fonts
 
-This mod uses the road signage typeface **Traffic Type Spain**. I tried searching for the original Font for Italian sign's, but it seems the goverment have this Font on private.
+This mod uses the road signage typeface **Frutiger** and **Frutiger Bold**.
 For copyright reasons, the font is **not included** and must be installed manually.
 
-##### You can find it [here](https://www.onlinewebfonts.com/download/f820971323ed634d5ef50513e34fbd3c)
+##### You can find it [here](https://font.download/font/frutiger)
 
 #### How to install the font
-1. Download the **Traffic Type Spain** font file (`.ttf`).  
+1. Download the **Frutiger** font file (`.ttf`).  
 2. Go to your local Cities: Skylines II mods folder:  
    `\Cities Skylines II\ModsData\Klyte45Mods\WriteEverywhere\fonts`  
    *(if the `fonts` folder doesn’t exist, create it manually)*  
@@ -93,9 +79,21 @@ For copyright reasons, the font is **not included** and must be installed manual
 
 ---
 
-##  Check out my other Signs Modules
-- [German Signs](https://mods.paradoxplaza.com/mods/120627/Windows)  
-- [Dutch Signs](https://mods.paradoxplaza.com/mods/121223/Windows)  
+##  Check out my other Signs/Overrider Modules
+### Serie A
+- [German Signs](https://mods.paradoxplaza.com/mods/120627/Windows)
+- [German OVerrider](https://mods.paradoxplaza.com/mods/123745/Windows)
+- [Dutch Signs](https://mods.paradoxplaza.com/mods/121223/Windows)
+- [Dutch Overrider]()
+- [Italian Signs](https://mods.paradoxplaza.com/mods/121615/Windows)
+- [Italian Overrider](https://mods.paradoxplaza.com/mods/124269/Windows)
+
+### Serie B
+- [Swiss Overrider](https://mods.paradoxplaza.com/mods/123563/Windows)
+- [French Signs](https://mods.paradoxplaza.com/mods/124289/Windows)
+- [French Overrider](https://mods.paradoxplaza.com/mods/123893/Windows)
+- [Spanish Signs](https://mods.paradoxplaza.com/mods/124290/Windows)
+- [Spanish Overrider]()
 
 ---
 

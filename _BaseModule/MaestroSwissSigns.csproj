@@ -17,14 +17,14 @@
 
   <PropertyGroup>
     <IsBelzontCommonsMod>false</IsBelzontCommonsMod>
-    <ModId>121615</ModId>
-    <Version>0.4.0</Version>
+    <ModId>124288</ModId>
+    <Version>1.0.1</Version>
     <GameVersion>1.*</GameVersion>
     <ThumbnailPath>Properties/Thumbnail.png</ThumbnailPath>
-    <DisplayName>Italian Signs (WE-Module)</DisplayName>
-    <ShortDescription>A WriteEverywhere-Module that give the ability to place, create or edit Italian Signs</ShortDescription>
-    <ForumLink>https://forum.paradoxplaza.com/forum/threads/italian-signs-we-module.1862096</ForumLink>
-    <GitHubLink>https://github.com/UnMaestro/Maestros-CS2-ItalianSigns</GitHubLink>
+    <DisplayName>Swiss Signs (WE-Module)</DisplayName>
+    <ShortDescription>A WriteEverywhere-Module that give the ability to place, create or edit Swiss Signs</ShortDescription>
+    <ForumLink>https://forum.paradoxplaza.com/forum/threads/swiss-signs-pack-we-module.1869844</ForumLink>
+    <GitHubLink>https://github.com/UnMaestro/Maestros-CS2-SwissSigns</GitHubLink>
     <YoutubeLink></YoutubeLink>
     <KofiLink></KofiLink>
     <BMACLink></BMACLink>
