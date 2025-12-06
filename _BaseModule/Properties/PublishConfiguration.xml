@@ -110,9 +110,9 @@ For copyright reasons, the font is **not included** and must be installed manual
 ##  Enjoy &amp; Share Your Feedback!</LongDescription>
   <Thumbnail Value="Properties/Thumbnail.png" />
   <ForumLink Value="https://forum.paradoxplaza.com/forum/threads/swiss-signs-pack-we-module.1869844" />
-  <ModVersion Value="1.0.1" />
+  <ModVersion Value="1.0.2" />
   <GameVersion Value="1.*" />
-  <ChangeLog>Updated Description</ChangeLog>
+  <ChangeLog>Compatibility for game update 1.5.2f1.</ChangeLog>
   <Tag Value="Code Mod" />
   <Screenshot Value="Screenshots\Screenshot_1.jpg" />
   <Screenshot Value="Screenshots\Screenshot_2.jpg" />
