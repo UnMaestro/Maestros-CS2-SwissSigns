@@ -18,7 +18,7 @@
   <PropertyGroup>
     <IsBelzontCommonsMod>false</IsBelzontCommonsMod>
     <ModId>124288</ModId>
-    <Version>1.0.2</Version>
+    <Version>1.0.3</Version>
     <GameVersion>1.*</GameVersion>
     <ThumbnailPath>Properties/Thumbnail.png</ThumbnailPath>
     <DisplayName>Swiss Signs (WE-Module)</DisplayName>
@@ -26,24 +26,18 @@
     <ForumLink>https://forum.paradoxplaza.com/forum/threads/swiss-signs-pack-we-module.1869844</ForumLink>
     <GitHubLink>https://github.com/UnMaestro/Maestros-CS2-SwissSigns</GitHubLink>
     <YoutubeLink></YoutubeLink>
-    <KofiLink></KofiLink>
-    <BMACLink></BMACLink>
-    <CrowdinLink></CrowdinLink>
-    <TwitterLink></TwitterLink>
+    <DiscordLink>https://discord.com/channels/1024242828114673724/1446097301775843488</DiscordLink>
+    <PayPalLink>https://www.paypal.com/paypalme/pas1800</PayPalLink>
     <AllowUnsafeBlocks>true</AllowUnsafeBlocks>
   </PropertyGroup>
 
   <ItemGroup>
     <ModTag Include="Code Mod" />
     <Screenshots Include="Screenshots/*.jpg" />
+    
     <Dependency Include="WriteEverywhere">
       <ModId>92908</ModId>
       <DisplayName>Write Everywhere</DisplayName>
-    </Dependency>
-    
-    <Dependency Include="HighwaySignStructures">
-      <ModId>113261</ModId>
-      <DisplayName>Highway Sign Structures</DisplayName>
     </Dependency>
   </ItemGroup>
   

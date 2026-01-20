@@ -146,7 +146,7 @@
     <self itemName="Backside Left">
       <transform alignment="Left" arrayAxisOrder="XYZ">
         <offsetPosition x="1.41" y="0" z="-0.005" />
-        <offsetRotation x="-0" y="0" z="0" />
+        <offsetRotation x="-0" y="180" z="0" />
         <scale x="2.15" y="2.22" z="1" />
         <mustDraw>1</mustDraw>
         <instanceCount>-1</instanceCount>
@@ -172,7 +172,7 @@
     <self itemName="Backside Right">
       <transform alignment="Left" arrayAxisOrder="XYZ">
         <offsetPosition x="-1.11" y="0" z="-0.005" />
-        <offsetRotation x="-0" y="0" z="0" />
+        <offsetRotation x="-0" y="180" z="0" />
         <scale x="2.75" y="2.22" z="1" />
         <mustDraw>1</mustDraw>
         <instanceCount>-1</instanceCount>
